@@ -7,7 +7,7 @@ Tried to implement recursion instead of calling different functions but had trou
 
 **/
 var text1 = 'Hi, I\'m Ainsley I like';
-var text2 = ' love to code.';
+var text2 = ' love to code...';
 var id = 'typing-text1';
 var deleteUpTo = 17;
 var linebreak = 15;
