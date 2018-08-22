@@ -241,7 +241,7 @@ h2 {
 
 /*--- Potrait & Landscape----*/
 
-@media screen and (max-width: 667px) {
+@media screen and (max-width: 750px) {
   /*-Home Section-*/
   #typing-text1,
   #typing-text2 {
@@ -276,7 +276,7 @@ h2 {
 
 /*--- Landscape----*/
 
-@media screen and (max-width: 667px) and (orientation: landscape) {
+@media screen and (max-width: 750px) and (orientation: landscape) {
   /*-My Story Section-*/
   #mystory-box {
     width: 100%;
